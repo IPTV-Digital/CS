@@ -1,0 +1,8 @@
+{
+    "name": "Sedot_CW Repo",
+    "description": "Repository edit by Sedot-CW",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/CodeSannz/Cloudstream/refs/heads/master/plugins.json"
+    ]
+}
