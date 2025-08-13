@@ -1,0 +1,8 @@
+{
+    "name": "Phisher98-X-R",
+    "description": "aghhh.....",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/phisher98/CXXX/builds/plugins.json"
+    ]
+}
